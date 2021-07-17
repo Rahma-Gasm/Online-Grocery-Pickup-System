@@ -13,3 +13,12 @@ Online Grocery Pickup Program displays a menu enables customer chooses  from:
 Java, Stack, Queue
 
 ## Features 
+- Add a new order                          
+- Lookup the first order                   
+- Fulfill order                            
+- Restock orders                           
+- Print orders   
+
+## Screenshots
+
+## Installation 
